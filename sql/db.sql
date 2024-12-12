@@ -60,6 +60,6 @@ CREATE TABLE sponsors (
 );
 
 
-INSERT INTO participants VALUES (1, "simplon", "simplon.co", "simplon.co@gmail.com", "+2120-000-000-00", 1500000);
+INSERT INTO sponsors VALUES (1, "simplon", "simploncont", "simplon.co@gmail.com", "0000000000", 12345.12);
 
 
